@@ -1,0 +1,1 @@
+enum BleuSeverity { error, warning, info }
